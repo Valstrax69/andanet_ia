@@ -1,0 +1,9 @@
+datos/raw/
+datos/tratados/
+datos/*.json
+tests/
+*.md
+.github/
+__pycache__/
+*.pyc
+requirements-dev.txt

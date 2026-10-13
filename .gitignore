@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# El modelo y las tablas tratadas son salidas de preparar.py (se regeneran)
+modelo/*.pkl
+datos/tratados/
+datos/perfil_*.json
+datos/limpieza_resumen.json

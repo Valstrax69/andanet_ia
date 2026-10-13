@@ -1,0 +1,58 @@
+{
+  "modelo_version": "1.0.0",
+  "entrenado_en": "2026-10-13",
+  "algoritmo": "TF-IDF de palabras (1-2 gramas) + LogisticRegression (class_weight=balanced)",
+  "clases": [
+    "anulacion",
+    "cambio_plan",
+    "facturacion",
+    "falla_conexion",
+    "otra",
+    "visita"
+  ],
+  "n_entrenamiento": 1520,
+  "n_prueba": 381,
+  "umbral_macro_f1": 0.65,
+  "metricas": {
+    "accuracy": 0.7507,
+    "macro_f1": 0.6986,
+    "por_clase": {
+      "anulacion": {
+        "precision": 0.795,
+        "recall": 0.646,
+        "f1-score": 0.713,
+        "support": 48.0
+      },
+      "cambio_plan": {
+        "precision": 0.514,
+        "recall": 0.75,
+        "f1-score": 0.61,
+        "support": 24.0
+      },
+      "facturacion": {
+        "precision": 0.891,
+        "recall": 0.882,
+        "f1-score": 0.886,
+        "support": 93.0
+      },
+      "falla_conexion": {
+        "precision": 0.836,
+        "recall": 0.823,
+        "f1-score": 0.829,
+        "support": 130.0
+      },
+      "otra": {
+        "precision": 0.492,
+        "recall": 0.527,
+        "f1-score": 0.509,
+        "support": 55.0
+      },
+      "visita": {
+        "precision": 0.679,
+        "recall": 0.613,
+        "f1-score": 0.644,
+        "support": 31.0
+      }
+    }
+  }
+}
