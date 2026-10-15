@@ -1,0 +1,75 @@
+[
+  {
+    "archivo": "clientes",
+    "filas": 6074,
+    "columnas": 10,
+    "nulos_por_columna": {
+      "cliente_id": 0,
+      "fecha_alta": 0,
+      "plan": 0,
+      "tipo_servicio": 0,
+      "region": 0,
+      "segmento": 0,
+      "antiguedad_meses": 0,
+      "deuda_vigente": 0,
+      "canal_preferido": 0,
+      "acepta_contacto": 0
+    },
+    "duplicados_fila": 74
+  },
+  {
+    "archivo": "faq",
+    "filas": 500,
+    "columnas": 7,
+    "nulos_por_columna": {
+      "articulo_id": 0,
+      "pregunta": 0,
+      "respuesta": 0,
+      "categoria": 0,
+      "vistas_12m": 0,
+      "ultima_edicion": 0,
+      "vigente": 0
+    },
+    "duplicados_fila": 0
+  },
+  {
+    "archivo": "tickets",
+    "filas": 24312,
+    "columnas": 13,
+    "nulos_por_columna": {
+      "ticket_id": 0,
+      "cliente_id": 0,
+      "canal": 0,
+      "fecha_apertura": 0,
+      "fecha_cierre": 0,
+      "categoria": 0,
+      "subcategoria": 0,
+      "texto_consulta": 0,
+      "agente_id": 0,
+      "tiempo_espera_seg": 0,
+      "resuelto": 0,
+      "csat": 0,
+      "reabierto": 0
+    },
+    "duplicados_fila": 312
+  },
+  {
+    "archivo": "conversaciones",
+    "filas": 8241,
+    "columnas": 11,
+    "nulos_por_columna": {
+      "conversacion_id": 0,
+      "cliente_id": 0,
+      "canal": 0,
+      "inicio": 0,
+      "fin": 0,
+      "turnos": 0,
+      "intencion_detectada": 0,
+      "derivada_a_humano": 0,
+      "resuelta": 0,
+      "idioma": 0,
+      "transcripcion": 0
+    },
+    "duplicados_fila": 241
+  }
+]

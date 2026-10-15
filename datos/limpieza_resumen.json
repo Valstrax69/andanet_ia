@@ -1,0 +1,25 @@
+{
+  "clientes": {
+    "duplicados_eliminados": 74,
+    "deuda_negativa_corregida": 179,
+    "filas_finales": 6000
+  },
+  "faq": {
+    "no_vigentes_descartados": 130,
+    "filas_finales": 370
+  },
+  "tickets": {
+    "filas": 24312,
+    "con_dato_personal_enmascarado": 7523,
+    "cliente_inexistente_a_null": 591,
+    "espera_negativa_a_null": 351,
+    "espera_mayor_4h_a_null": 199,
+    "cierre_antes_de_apertura_a_null": 2482
+  },
+  "conversaciones": {
+    "duplicadas_eliminadas": 241,
+    "con_dato_personal": 3429,
+    "sin_etiqueta_descartadas": 3114,
+    "usadas_entrenamiento": 4886
+  }
+}
