@@ -1,0 +1,54 @@
+[
+  {
+    "archivo": "clientes",
+    "filas": 6000,
+    "columnas": 10,
+    "nulos_por_columna": {
+      "cliente_id": 0,
+      "fecha_alta": 0,
+      "plan": 0,
+      "tipo_servicio": 0,
+      "region": 0,
+      "segmento": 0,
+      "antiguedad_meses": 0,
+      "deuda_vigente": 0,
+      "canal_preferido": 0,
+      "acepta_contacto": 0
+    },
+    "duplicados_fila": 0
+  },
+  {
+    "archivo": "faq",
+    "filas": 370,
+    "columnas": 7,
+    "nulos_por_columna": {
+      "articulo_id": 0,
+      "pregunta": 0,
+      "respuesta": 0,
+      "categoria": 0,
+      "intencion": 0,
+      "vistas_12m": 0,
+      "ultima_edicion": 0
+    },
+    "duplicados_fila": 0
+  },
+  {
+    "archivo": "tickets",
+    "filas": 24312,
+    "columnas": 11,
+    "nulos_por_columna": {
+      "ticket_id": 0,
+      "cliente_id": 591,
+      "canal": 0,
+      "fecha_apertura": 0,
+      "fecha_cierre": 4048,
+      "categoria": 0,
+      "texto_consulta": 0,
+      "tiempo_espera_seg": 550,
+      "resuelto": 0,
+      "csat": 9996,
+      "reabierto": 0
+    },
+    "duplicados_fila": 312
+  }
+]
