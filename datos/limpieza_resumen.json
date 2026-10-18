@@ -6,6 +6,8 @@
   },
   "faq": {
     "no_vigentes_descartados": 130,
+    "html_removido_de_la_respuesta": 96,
+    "intencion_distinta_de_la_categoria": 291,
     "filas_finales": 370
   },
   "tickets": {
