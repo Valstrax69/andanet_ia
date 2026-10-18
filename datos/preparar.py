@@ -71,6 +71,39 @@ def mapear_intencion(valor):
         return "falla_conexion"
     return "otra"
 
+RE_ENLACE = re.compile(r"<a\b[^>]*>.*?</a>", re.IGNORECASE | re.DOTALL)
+RE_HTML = re.compile(r"<[^>]+>")
+
+# La categoria de la FAQ no sirve para clasificar: el mismo texto aparece con
+# categorias distintas (el articulo del router figura como "Facturacion"). La
+# pregunta si corresponde con la respuesta, asi que la intencion sale de ahi.
+PALABRAS_FAQ = [
+    ("anulacion",      ["anula", "baja", "portab", "cancel"]),
+    ("visita",         ["visita", "agend", "tecnico", "terreno", "instalacion"]),
+    ("cambio_plan",    ["cambio de plan", "cambiar de plan", "cambio mi plan",
+                        "cambiar mi plan", "cambio plan", "upgrade", "downgrade"]),
+    ("facturacion",    ["factura", "boleta", "cobro", "saldo", "pagar", "pago atrasado",
+                        "cuanto debo", "vence", "deuda", "como pago"]),
+    ("falla_conexion", ["internet", "conexion", "senal", "router", "falla", "lento",
+                        "no funciona", "corte", "wifi", "equipo"]),
+]
+
+
+def intencion_de_pregunta(texto):
+    t = norm(texto)
+    for intencion, palabras in PALABRAS_FAQ:
+        if any(p in t for p in palabras):
+            return intencion
+    return "otra"
+
+
+def limpiar_html(texto):
+    # El gestor de contenidos viejo dejo etiquetas y enlaces "Ver mas" dentro
+    # de la respuesta. El enlace se borra completo, con su texto.
+    t = RE_ENLACE.sub(" ", str(texto))
+    return re.sub(r"\s+", " ", RE_HTML.sub(" ", t)).strip()
+
+
 # Intenciones de conversaciones que no son etiquetas confiables (fallas del bot viejo)
 SIN_ETIQUETA = {"desconocida", "unknown", ""}
 
@@ -139,11 +172,17 @@ def main():
     # --- FAQ ---
     n0 = len(faq)
     faq = faq[faq["vigente"] == "1"].copy()          # fuera no vigentes y nulos
+    con_html = int(faq["respuesta"].str.contains("<").sum())
+    faq["respuesta"] = faq["respuesta"].map(limpiar_html)       # fuera las etiquetas HTML
     faq["categoria"] = faq["categoria"].map(lambda s: norm(s).replace(" ", "_"))
-    faq["intencion"] = faq["categoria"].map(mapear_intencion)   # enlaza la FAQ con la salida del modelo
+    faq["intencion"] = faq["pregunta"].map(intencion_de_pregunta)   # no se usa la categoria: viene inconsistente
+    corregidas = int((faq["categoria"].map(mapear_intencion) != faq["intencion"]).sum())
     faq["vistas_12m"] = pd.to_numeric(faq["vistas_12m"], errors="coerce").fillna(0).astype(int)
     faq_out = faq[["articulo_id", "pregunta", "respuesta", "categoria", "intencion", "vistas_12m", "ultima_edicion"]]
-    resumen["faq"] = {"no_vigentes_descartados": n0 - len(faq_out), "filas_finales": len(faq_out)}
+    resumen["faq"] = {"no_vigentes_descartados": n0 - len(faq_out),
+                      "html_removido_de_la_respuesta": con_html,
+                      "intencion_distinta_de_la_categoria": corregidas,
+                      "filas_finales": len(faq_out)}
 
     # --- TICKETS ---
     n0 = len(tickets)

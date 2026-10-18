@@ -1,371 +1,371 @@
 articulo_id,pregunta,respuesta,categoria,intencion,vistas_12m,ultima_edicion
 FQ1001,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",cobertura,falla_conexion,35267,2025-05-15
-FQ1002,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,soporte,falla_conexion,31130,2021-03-13
-FQ1004,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,cobertura,falla_conexion,2751,2023-05-16
-FQ1005,como veo la tv en el celular ?,Descarga la app Andesnet TV e inicia sesion.,upgrade,cambio_plan,33958,2025-12-05
+FQ1002,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,soporte,facturacion,31130,2021-03-13
+FQ1004,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,cobertura,otra,2751,2023-05-16
+FQ1005,como veo la tv en el celular ?,Descarga la app Andesnet TV e inicia sesion.,upgrade,otra,33958,2025-12-05
 FQ1006,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,roaming,otra,30882,2023-07-21
-FQ1009,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,anulacion,anulacion,34255,2021-05-05
-FQ1010,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_plan,cambio_plan,20047,2021-06-14
-FQ1011,Como me porto a Andesnet de TV,Necesitas tu cedula de identidad y el numero a portar.,falla_tecnica,falla_conexion,5896,2021-01-18
-FQ1012,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,roaming,otra,484,2021-05-21
-FQ1013,que pasa si pago atrasado desde la app,Se aplica interes y el servicio puede suspenderse a los 30 dias.,baja,anulacion,7228,2022-12-08
-FQ1014,Que pasa si pago atrasado,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/707'>Ver mas</a> Aplica al plan Movil Control 3G.,fact,facturacion,0,2021-05-08
-FQ1015,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,,otra,4067,2021-07-22
-FQ1016,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,upgrade,cambio_plan,13446,2022-01-03
-FQ1017,Como anulo mi servicio prepago,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/877'>Ver mas</a> Aplica al plan Movil Control 3G.,equipos,falla_conexion,40368,2022-12-29
+FQ1009,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,anulacion,falla_conexion,34255,2021-05-05
+FQ1010,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_plan,facturacion,20047,2021-06-14
+FQ1011,Como me porto a Andesnet de TV,Necesitas tu cedula de identidad y el numero a portar.,falla_tecnica,otra,5896,2021-01-18
+FQ1012,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,roaming,visita,484,2021-05-21
+FQ1013,que pasa si pago atrasado desde la app,Se aplica interes y el servicio puede suspenderse a los 30 dias.,baja,facturacion,7228,2022-12-08
+FQ1014,Que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias. Aplica al plan Movil Control 3G.,fact,facturacion,0,2021-05-08
+FQ1015,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,,visita,4067,2021-07-22
+FQ1016,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,upgrade,otra,13446,2022-01-03
+FQ1017,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion. Aplica al plan Movil Control 3G.,equipos,otra,40368,2022-12-29
 FQ1018,Que cobertura tiene mi comuna empresa,Consulta el mapa de cobertura en el sitio web.,television,otra,33835,2025-07-22
-FQ1020,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,roaming,otra,10072,2021-01-13
-FQ1021,Como cambio mi plan movil,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Duo Clasico.",cobertura,falla_conexion,1059,2025-03-12
-FQ1022,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,-,otra,43735,2022-12-02
-FQ1023,Como veo la TV en el celular movil,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/84'>Ver mas</a>,facturacion,facturacion,8286,2022-03-20
-FQ1024,Que pasa si pago atrasado movil,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/333'>Ver mas</a>,facturacion,facturacion,22882,2025-07-30
-FQ1025,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,facturacion,facturacion,1224,2022-12-15
+FQ1020,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,roaming,visita,10072,2021-01-13
+FQ1021,Como cambio mi plan movil,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Duo Clasico.",cobertura,cambio_plan,1059,2025-03-12
+FQ1022,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,-,facturacion,43735,2022-12-02
+FQ1023,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,facturacion,otra,8286,2022-03-20
+FQ1024,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,facturacion,facturacion,22882,2025-07-30
+FQ1025,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,facturacion,otra,1224,2022-12-15
 FQ1026,Como anulo mi servicio movil,Debes llamar y hablar con un ejecutivo de retencion.,-,otra,1094,2022-02-09
-FQ1027,Como pago mi cuenta de fibra,"<p>Puedes pagar en linea desde el portal, en sucursales o por transferencia.</p><a href='/ayuda/668'>Ver mas</a> Aplica al plan Movil Control 3G.",cancelacion,anulacion,35539,2021-08-05
-FQ1028,Cuanto cuesta el roaming,Depende del pais y del plan contratado. Aplica al plan Duo Clasico.,fact.,facturacion,38538,2021-04-19
-FQ1029,Como veo la TV en el celular prepago,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/216'>Ver mas</a>,visita,visita,6556,2022-05-28
-FQ1030,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,porta,otra,43907,2022-02-21
-FQ1031,Que cobertura tiene mi comuna de fibra,Consulta el mapa de cobertura en el sitio web.,falla_tecnica,falla_conexion,23468,2021-08-20
-FQ1032,Como agendo una visita tecnica,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/710'>Ver mas</a>,cobertura,falla_conexion,46738,2025-06-08
-FQ1033,Como anulo mi servicio empresa,Debes llamar y hablar con un ejecutivo de retencion.,falla_tecnica,falla_conexion,18297,2022-03-26
-FQ1035,Como cambio mi plan movil,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/799'>Ver mas</a>",visita_tecnica,visita,34226,2022-07-26
-FQ1037,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,falla_tecnica,falla_conexion,21929,2023-11-30
-FQ1039,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,,otra,1074,2021-06-29
+FQ1027,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Movil Control 3G.",cancelacion,facturacion,35539,2021-08-05
+FQ1028,Cuanto cuesta el roaming,Depende del pais y del plan contratado. Aplica al plan Duo Clasico.,fact.,otra,38538,2021-04-19
+FQ1029,Como veo la TV en el celular prepago,Descarga la app Andesnet TV e inicia sesion.,visita,otra,6556,2022-05-28
+FQ1030,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,porta,facturacion,43907,2022-02-21
+FQ1031,Que cobertura tiene mi comuna de fibra,Consulta el mapa de cobertura en el sitio web.,falla_tecnica,otra,23468,2021-08-20
+FQ1032,Como agendo una visita tecnica,Desde la app o llamando al 600 600 6000.,cobertura,visita,46738,2025-06-08
+FQ1033,Como anulo mi servicio empresa,Debes llamar y hablar con un ejecutivo de retencion.,falla_tecnica,otra,18297,2022-03-26
+FQ1035,Como cambio mi plan movil,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita_tecnica,cambio_plan,34226,2022-07-26
+FQ1037,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,falla_tecnica,otra,21929,2023-11-30
+FQ1039,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,,visita,1074,2021-06-29
 FQ1040,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado. Aplica al plan TV Basico Analogo.,roaming,otra,0,2022-10-13
-FQ1041,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,facturacion,facturacion,0,2024-10-20
+FQ1041,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,facturacion,otra,0,2024-10-20
 FQ1042,como devuelvo el equipo ?,Acercate a cualquier sucursal con el equipo y su cargador.,cobertura,falla_conexion,10660,2021-05-01
-FQ1043,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Duo Clasico.,baja,anulacion,40873,2022-11-02
+FQ1043,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Duo Clasico.,baja,otra,40873,2022-11-02
 FQ1044,como anulo mi servicio desde la app,Debes llamar y hablar con un ejecutivo de retencion.,,otra,21998,2024-02-14
 FQ1047,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",falla_tecnica,falla_conexion,40050,2025-07-17
-FQ1048,Cuando vence mi boleta de fibra,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,anulacion,anulacion,21721,2021-02-27
-FQ1049,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,cobros,facturacion,40814,2022-01-21
-FQ1050,Que cobertura tiene mi comuna empresa,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/418'>Ver mas</a>,tv,otra,36087,2023-10-27
-FQ1052,Como cambio mi plan de TV,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/130'>Ver mas</a>",equipo,otra,17762,2021-05-24
-FQ1054,como agendo una visita tecnica desde la app,Desde la app o llamando al 600 600 6000.,falla_tecnica,falla_conexion,38075,2021-08-21
+FQ1048,Cuando vence mi boleta de fibra,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,anulacion,facturacion,21721,2021-02-27
+FQ1049,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,cobros,otra,40814,2022-01-21
+FQ1050,Que cobertura tiene mi comuna empresa,Consulta el mapa de cobertura en el sitio web.,tv,otra,36087,2023-10-27
+FQ1052,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",equipo,cambio_plan,17762,2021-05-24
+FQ1054,como agendo una visita tecnica desde la app,Desde la app o llamando al 600 600 6000.,falla_tecnica,visita,38075,2021-08-21
 FQ1057,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,otros,otra,28669,2021-07-23
-FQ1058,Como cambio mi plan de fibra,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",tecnico,falla_conexion,3609,2025-06-09
-FQ1060,Quiero saber como veo la tv en el celular,Descarga la app Andesnet TV e inicia sesion.,cambio_de_plan,cambio_plan,21591,2024-05-26
+FQ1058,Como cambio mi plan de fibra,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",tecnico,cambio_plan,3609,2025-06-09
+FQ1060,Quiero saber como veo la tv en el celular,Descarga la app Andesnet TV e inicia sesion.,cambio_de_plan,otra,21591,2024-05-26
 FQ1061,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion.,television,otra,32452,2023-05-17
-FQ1062,como cambio mi plan desde la app,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita,visita,40368,2023-12-22
-FQ1064,Que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,anulacion,anulacion,10332,2023-08-29
-FQ1065,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",falla_tecnica,falla_conexion,0,2021-05-18
-FQ1067,Como veo la TV en el celular empresa,Descarga la app Andesnet TV e inicia sesion.,equipos,falla_conexion,1770,2021-06-29
-FQ1068,Como cambio mi plan de fibra,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",falla_tecnica,falla_conexion,36182,2021-10-28
-FQ1069,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",otros,otra,25726,2021-11-06
-FQ1071,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,soporte_tecnico,falla_conexion,17704,2021-08-08
-FQ1072,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,facturacion,47096,2025-10-02
-FQ1073,Como pago mi cuenta de TV,"<p>Puedes pagar en linea desde el portal, en sucursales o por transferencia.</p><a href='/ayuda/114'>Ver mas</a>",cambio_plan,cambio_plan,21916,2026-01-27
-FQ1074,Como anulo mi servicio de TV,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/509'>Ver mas</a>,baja,anulacion,20281,2023-04-07
-FQ1075,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,portabilidad,anulacion,44186,2021-07-29
+FQ1062,como cambio mi plan desde la app,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita,cambio_plan,40368,2023-12-22
+FQ1064,Que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,anulacion,facturacion,10332,2023-08-29
+FQ1065,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",falla_tecnica,facturacion,0,2021-05-18
+FQ1067,Como veo la TV en el celular empresa,Descarga la app Andesnet TV e inicia sesion.,equipos,otra,1770,2021-06-29
+FQ1068,Como cambio mi plan de fibra,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",falla_tecnica,cambio_plan,36182,2021-10-28
+FQ1069,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",otros,cambio_plan,25726,2021-11-06
+FQ1071,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,soporte_tecnico,otra,17704,2021-08-08
+FQ1072,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,falla_conexion,47096,2025-10-02
+FQ1073,Como pago mi cuenta de TV,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_plan,facturacion,21916,2026-01-27
+FQ1074,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,baja,otra,20281,2023-04-07
+FQ1075,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,portabilidad,falla_conexion,44186,2021-07-29
 FQ1076,Como veo la TV en el celular empresa,Descarga la app Andesnet TV e inicia sesion.,television,otra,34437,2021-08-15
-FQ1077,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,otra,37482,2024-04-07
-FQ1079,Quiero saber como veo la tv en el celular,Descarga la app Andesnet TV e inicia sesion.,visita_tecnica,visita,14616,2021-12-18
-FQ1080,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",television,otra,36693,2025-07-19
-FQ1081,Cuanto cuesta el roaming de fibra,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/40'>Ver mas</a> Aplica al plan Plan Cobre 10M.,portabilidad,anulacion,9031,2023-07-12
-FQ1082,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web.,cobertura,falla_conexion,40170,2024-10-09
-FQ1083,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Plan Cobre 10M.",otros,otra,0,2022-09-30
-FQ1084,Que pasa si pago atrasado de TV,Se aplica interes y el servicio puede suspenderse a los 30 dias.,visita_tecnica,visita,45223,2025-04-08
+FQ1077,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,facturacion,37482,2024-04-07
+FQ1079,Quiero saber como veo la tv en el celular,Descarga la app Andesnet TV e inicia sesion.,visita_tecnica,otra,14616,2021-12-18
+FQ1080,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",television,falla_conexion,36693,2025-07-19
+FQ1081,Cuanto cuesta el roaming de fibra,Depende del pais y del plan contratado. Aplica al plan Plan Cobre 10M.,portabilidad,otra,9031,2023-07-12
+FQ1082,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web.,cobertura,otra,40170,2024-10-09
+FQ1083,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Plan Cobre 10M.",otros,falla_conexion,0,2022-09-30
+FQ1084,Que pasa si pago atrasado de TV,Se aplica interes y el servicio puede suspenderse a los 30 dias.,visita_tecnica,facturacion,45223,2025-04-08
 FQ1085,Como anulo mi servicio empresa,Debes llamar y hablar con un ejecutivo de retencion.,television,otra,19039,2023-01-16
-FQ1087,como pago mi cuenta ?,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",porta,otra,31879,2024-04-02
-FQ1088,como pago mi cuenta ?,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cobertura,falla_conexion,5531,2021-09-23
-FQ1089,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Plan Andes 200.",cambio_plan,cambio_plan,29230,2022-04-22
-FQ1090,Que hago si no tengo internet prepago,"<p>Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.</p><a href='/ayuda/194'>Ver mas</a> Aplica al plan Duo Clasico.",facturacion,facturacion,47931,2021-11-25
-FQ1092,Como anulo mi servicio,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/587'>Ver mas</a>,senal,falla_conexion,17921,2021-03-08
-FQ1093,Como devuelvo el equipo de fibra,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/159'>Ver mas</a>,roaming,otra,39095,2023-07-05
-FQ1094,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,visita,0,2021-07-05
-FQ1095,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,cambio_plan,cambio_plan,5140,2024-06-09
-FQ1096,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,cancelacion,anulacion,0,2021-05-17
-FQ1097,Como pago mi cuenta de fibra,"<p>Puedes pagar en linea desde el portal, en sucursales o por transferencia.</p><a href='/ayuda/222'>Ver mas</a>",television,otra,27948,2025-01-25
-FQ1098,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,agenda_tecnico,visita,10075,2022-05-21
-FQ1101,Como anulo mi servicio,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/855'>Ver mas</a>,facturacion,facturacion,0,2021-08-26
-FQ1103,Como veo la TV en el celular de TV,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/891'>Ver mas</a>,equipos,falla_conexion,6114,2021-10-13
-FQ1104,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web. Aplica al plan Plan Andes 200.,cobertura,falla_conexion,13781,2021-11-28
-FQ1106,Como pago mi cuenta,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_de_plan,cambio_plan,28861,2025-02-06
-FQ1107,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,internacional,otra,30099,2025-09-23
-FQ1108,Como agendo una visita tecnica de TV,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/645'>Ver mas</a>,consulta_general,otra,26326,2022-12-10
-FQ1109,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,otra,787,2024-09-03
-FQ1111,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,otra,38820,2021-05-08
-FQ1112,Que cobertura tiene mi comuna prepago,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/888'>Ver mas</a> Aplica al plan Movil Control 3G.,television,otra,36417,2025-04-03
-FQ1114,como me porto a andesnet ?,Necesitas tu cedula de identidad y el numero a portar. Aplica al plan Plan Andes 200.,senal,falla_conexion,16617,2022-12-31
-FQ1117,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,facturacion,735,2021-07-08
-FQ1119,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000. Aplica al plan Plan Cobre 10M.,tv,otra,30181,2024-11-11
-FQ1121,que hago si no tengo internet ?,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",anulacion,anulacion,21581,2021-09-30
-FQ1122,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,anulacion,28881,2025-12-09
-FQ1124,Cuanto cuesta el roaming empresa,Depende del pais y del plan contratado. Aplica al plan Movil Control 3G.,facturacion,facturacion,17980,2026-01-12
-FQ1125,cuando vence mi boleta paso a paso,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/802'>Ver mas</a>,falla_tecnica,falla_conexion,31532,2022-12-22
-FQ1126,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,facturacion,facturacion,35303,2023-07-08
+FQ1087,como pago mi cuenta ?,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",porta,facturacion,31879,2024-04-02
+FQ1088,como pago mi cuenta ?,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cobertura,facturacion,5531,2021-09-23
+FQ1089,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Plan Andes 200.",cambio_plan,falla_conexion,29230,2022-04-22
+FQ1090,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Duo Clasico.",facturacion,falla_conexion,47931,2021-11-25
+FQ1092,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,senal,otra,17921,2021-03-08
+FQ1093,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,roaming,falla_conexion,39095,2023-07-05
+FQ1094,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,facturacion,0,2021-07-05
+FQ1095,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,cambio_plan,otra,5140,2024-06-09
+FQ1096,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,cancelacion,falla_conexion,0,2021-05-17
+FQ1097,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",television,facturacion,27948,2025-01-25
+FQ1098,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,agenda_tecnico,otra,10075,2022-05-21
+FQ1101,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,facturacion,otra,0,2021-08-26
+FQ1103,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion.,equipos,otra,6114,2021-10-13
+FQ1104,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web. Aplica al plan Plan Andes 200.,cobertura,otra,13781,2021-11-28
+FQ1106,Como pago mi cuenta,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_de_plan,facturacion,28861,2025-02-06
+FQ1107,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,internacional,falla_conexion,30099,2025-09-23
+FQ1108,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,consulta_general,visita,26326,2022-12-10
+FQ1109,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,facturacion,787,2024-09-03
+FQ1111,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,facturacion,38820,2021-05-08
+FQ1112,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web. Aplica al plan Movil Control 3G.,television,otra,36417,2025-04-03
+FQ1114,como me porto a andesnet ?,Necesitas tu cedula de identidad y el numero a portar. Aplica al plan Plan Andes 200.,senal,otra,16617,2022-12-31
+FQ1117,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,falla_conexion,735,2021-07-08
+FQ1119,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000. Aplica al plan Plan Cobre 10M.,tv,visita,30181,2024-11-11
+FQ1121,que hago si no tengo internet ?,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",anulacion,falla_conexion,21581,2021-09-30
+FQ1122,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,otra,28881,2025-12-09
+FQ1124,Cuanto cuesta el roaming empresa,Depende del pais y del plan contratado. Aplica al plan Movil Control 3G.,facturacion,otra,17980,2026-01-12
+FQ1125,cuando vence mi boleta paso a paso,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,falla_tecnica,facturacion,31532,2022-12-22
+FQ1126,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,facturacion,otra,35303,2023-07-08
 FQ1128,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,,otra,7919,2021-08-18
-FQ1129,cuanto cuesta el roaming ?,Depende del pais y del plan contratado.,cancelacion,anulacion,13265,2024-08-07
-FQ1130,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",tv,otra,26670,2021-01-19
-FQ1131,Como devuelvo el equipo de TV,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/802'>Ver mas</a>,equipos,falla_conexion,14396,2021-01-09
-FQ1132,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,facturacion,facturacion,19208,2021-07-20
-FQ1135,Como pago mi cuenta prepago,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",equipo,otra,17906,2021-08-11
-FQ1136,Como devuelvo el equipo de fibra,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/32'>Ver mas</a>,porta,otra,26008,2021-09-19
-FQ1137,Necesito ayuda: como me porto a andesnet,Necesitas tu cedula de identidad y el numero a portar.,cobertura,falla_conexion,33934,2021-07-24
-FQ1139,Cuando vence mi boleta de fibra,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/149'>Ver mas</a>,cambio_plan,cambio_plan,19566,2021-07-21
-FQ1140,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,falla_tecnica,falla_conexion,0,2022-05-08
+FQ1129,cuanto cuesta el roaming ?,Depende del pais y del plan contratado.,cancelacion,otra,13265,2024-08-07
+FQ1130,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",tv,cambio_plan,26670,2021-01-19
+FQ1131,Como devuelvo el equipo de TV,Acercate a cualquier sucursal con el equipo y su cargador.,equipos,falla_conexion,14396,2021-01-09
+FQ1132,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,facturacion,otra,19208,2021-07-20
+FQ1135,Como pago mi cuenta prepago,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",equipo,facturacion,17906,2021-08-11
+FQ1136,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,porta,falla_conexion,26008,2021-09-19
+FQ1137,Necesito ayuda: como me porto a andesnet,Necesitas tu cedula de identidad y el numero a portar.,cobertura,otra,33934,2021-07-24
+FQ1139,Cuando vence mi boleta de fibra,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cambio_plan,facturacion,19566,2021-07-21
+FQ1140,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,falla_tecnica,otra,0,2022-05-08
 FQ1141,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",falla_tecnica,falla_conexion,27584,2021-01-09
 FQ1142,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan TV Basico Analogo.",cambio_plan,cambio_plan,15858,2021-05-11
-FQ1144,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Plan Cobre 10M.",portabilidad,anulacion,34421,2021-11-01
-FQ1145,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,visita,visita,28123,2021-02-09
-FQ1146,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",portabilidad,anulacion,20072,2024-02-17
-FQ1147,que cobertura tiene mi comuna paso a paso,Consulta el mapa de cobertura en el sitio web.,anulacion,anulacion,28920,2021-05-26
-FQ1149,Quiero saber que cobertura tiene mi comuna,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/870'>Ver mas</a> Aplica al plan Banda Ancha 20M.,equipos,falla_conexion,20775,2024-02-25
-FQ1150,Que hago si no tengo internet movil,"<p>Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.</p><a href='/ayuda/484'>Ver mas</a>",anulacion,anulacion,17353,2026-02-02
-FQ1151,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,router,falla_conexion,43122,2021-04-22
-FQ1152,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",falla_tecnica,falla_conexion,0,2023-01-19
-FQ1153,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",soporte_tecnico,falla_conexion,2467,2022-08-23
-FQ1154,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion.,cambio_de_plan,cambio_plan,0,2022-02-03
-FQ1155,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,senal,falla_conexion,0,2021-10-22
+FQ1144,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Plan Cobre 10M.",portabilidad,cambio_plan,34421,2021-11-01
+FQ1145,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,visita,facturacion,28123,2021-02-09
+FQ1146,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",portabilidad,facturacion,20072,2024-02-17
+FQ1147,que cobertura tiene mi comuna paso a paso,Consulta el mapa de cobertura en el sitio web.,anulacion,otra,28920,2021-05-26
+FQ1149,Quiero saber que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web. Aplica al plan Banda Ancha 20M.,equipos,otra,20775,2024-02-25
+FQ1150,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",anulacion,falla_conexion,17353,2026-02-02
+FQ1151,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,router,visita,43122,2021-04-22
+FQ1152,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",falla_tecnica,facturacion,0,2023-01-19
+FQ1153,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",soporte_tecnico,facturacion,2467,2022-08-23
+FQ1154,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion.,cambio_de_plan,otra,0,2022-02-03
+FQ1155,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,senal,facturacion,0,2021-10-22
 FQ1156,Cuanto cuesta el roaming de fibra,Depende del pais y del plan contratado.,roaming,otra,9075,2021-02-24
 FQ1157,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web.,roaming,otra,41730,2021-07-05
-FQ1158,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan TV Basico Analogo.,roaming,otra,9465,2026-01-21
-FQ1164,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,falla_tecnica,falla_conexion,7382,2021-03-07
+FQ1158,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan TV Basico Analogo.,roaming,facturacion,9465,2026-01-21
+FQ1164,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,falla_tecnica,otra,7382,2021-03-07
 FQ1165,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",router,falla_conexion,26951,2024-06-13
-FQ1167,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,facturacion,facturacion,7355,2022-12-27
-FQ1170,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",portabilidad,anulacion,17585,2025-05-17
-FQ1172,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cancelacion,anulacion,34767,2021-06-24
-FQ1173,Como devuelvo el equipo de fibra,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/687'>Ver mas</a>,baja,anulacion,41883,2021-06-23
-FQ1174,Cuanto cuesta el roaming de TV,Depende del pais y del plan contratado.,visita,visita,31225,2021-04-12
-FQ1175,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",baja,anulacion,3605,2025-09-07
-FQ1176,Cuando vence mi boleta de TV,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/839'>Ver mas</a>,falla_tecnica,falla_conexion,6060,2021-12-24
-FQ1178,como cambio mi plan paso a paso,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",equipo,otra,20940,2025-12-28
-FQ1179,Cuanto cuesta el roaming,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/850'>Ver mas</a>,cambio_plan,cambio_plan,42706,2023-05-20
-FQ1180,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion.,cancelacion,anulacion,14995,2025-12-30
-FQ1181,Como agendo una visita tecnica empresa,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/262'>Ver mas</a>,otros,otra,21427,2021-08-13
-FQ1182,Que cobertura tiene mi comuna empresa,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/603'>Ver mas</a> Aplica al plan Duo Clasico.,roaming,otra,30545,2021-03-11
-FQ1183,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,-,otra,35696,2021-05-13
-FQ1185,Quiero saber que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,senal,falla_conexion,0,2022-08-03
-FQ1187,Como veo la TV en el celular movil,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/579'>Ver mas</a>,portabilidad,anulacion,2640,2025-04-23
-FQ1188,como devuelvo el equipo desde la app,Acercate a cualquier sucursal con el equipo y su cargador.,roaming,otra,32699,2022-09-10
+FQ1167,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,facturacion,otra,7355,2022-12-27
+FQ1170,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",portabilidad,cambio_plan,17585,2025-05-17
+FQ1172,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cancelacion,facturacion,34767,2021-06-24
+FQ1173,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,baja,falla_conexion,41883,2021-06-23
+FQ1174,Cuanto cuesta el roaming de TV,Depende del pais y del plan contratado.,visita,otra,31225,2021-04-12
+FQ1175,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",baja,falla_conexion,3605,2025-09-07
+FQ1176,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,falla_tecnica,facturacion,6060,2021-12-24
+FQ1178,como cambio mi plan paso a paso,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",equipo,cambio_plan,20940,2025-12-28
+FQ1179,Cuanto cuesta el roaming,Depende del pais y del plan contratado.,cambio_plan,otra,42706,2023-05-20
+FQ1180,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion.,cancelacion,otra,14995,2025-12-30
+FQ1181,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,otros,visita,21427,2021-08-13
+FQ1182,Que cobertura tiene mi comuna empresa,Consulta el mapa de cobertura en el sitio web. Aplica al plan Duo Clasico.,roaming,otra,30545,2021-03-11
+FQ1183,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,-,facturacion,35696,2021-05-13
+FQ1185,Quiero saber que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,senal,facturacion,0,2022-08-03
+FQ1187,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,portabilidad,otra,2640,2025-04-23
+FQ1188,como devuelvo el equipo desde la app,Acercate a cualquier sucursal con el equipo y su cargador.,roaming,falla_conexion,32699,2022-09-10
 FQ1189,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,senal,falla_conexion,44129,2023-03-31
-FQ1190,Como agendo una visita tecnica prepago,Desde la app o llamando al 600 600 6000.,cambio_de_plan,cambio_plan,3101,2026-04-26
-FQ1192,que cobertura tiene mi comuna desde la app,Consulta el mapa de cobertura en el sitio web. Aplica al plan TV Basico Analogo.,fact.,facturacion,39079,2023-03-04
-FQ1193,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,visita,visita,9587,2021-06-05
-FQ1194,cuando vence mi boleta ?,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,otra,16775,2022-04-01
+FQ1190,Como agendo una visita tecnica prepago,Desde la app o llamando al 600 600 6000.,cambio_de_plan,visita,3101,2026-04-26
+FQ1192,que cobertura tiene mi comuna desde la app,Consulta el mapa de cobertura en el sitio web. Aplica al plan TV Basico Analogo.,fact.,otra,39079,2023-03-04
+FQ1193,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,visita,otra,9587,2021-06-05
+FQ1194,cuando vence mi boleta ?,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,television,facturacion,16775,2022-04-01
 FQ1195,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cobros,facturacion,0,2023-06-28
 FQ1196,como anulo mi servicio paso a paso,Debes llamar y hablar con un ejecutivo de retencion.,internacional,otra,13106,2021-04-07
 FQ1197,Que pasa si pago atrasado de fibra,Se aplica interes y el servicio puede suspenderse a los 30 dias.,facturacion,facturacion,30079,2022-11-11
-FQ1198,Cuanto cuesta el roaming,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/149'>Ver mas</a>,fact,facturacion,11086,2025-11-24
-FQ1200,Necesito ayuda: cuanto cuesta el roaming,Depende del pais y del plan contratado.,anulacion,anulacion,0,2026-04-16
+FQ1198,Cuanto cuesta el roaming,Depende del pais y del plan contratado.,fact,otra,11086,2025-11-24
+FQ1200,Necesito ayuda: cuanto cuesta el roaming,Depende del pais y del plan contratado.,anulacion,otra,0,2026-04-16
 FQ1201,Que hago si no tengo internet empresa,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",falla_tecnica,falla_conexion,24178,2022-01-19
-FQ1202,como anulo mi servicio desde la app,Debes llamar y hablar con un ejecutivo de retencion.,cambio_de_plan,cambio_plan,41705,2026-02-05
-FQ1203,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,portabilidad,anulacion,7384,2023-02-04
-FQ1205,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion.,upgrade,cambio_plan,5858,2021-01-24
-FQ1208,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,facturacion,facturacion,31864,2021-05-01
-FQ1209,Como veo la TV en el celular,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/260'>Ver mas</a>,porta,otra,0,2025-03-29
-FQ1210,Quiero saber como pago mi cuenta,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Movil Control 3G.",baja,anulacion,45661,2021-11-27
-FQ1211,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Banda Ancha 20M.",equipos,falla_conexion,0,2021-05-13
-FQ1212,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,baja,anulacion,8855,2026-01-08
+FQ1202,como anulo mi servicio desde la app,Debes llamar y hablar con un ejecutivo de retencion.,cambio_de_plan,otra,41705,2026-02-05
+FQ1203,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,portabilidad,facturacion,7384,2023-02-04
+FQ1205,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion.,upgrade,otra,5858,2021-01-24
+FQ1208,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,facturacion,falla_conexion,31864,2021-05-01
+FQ1209,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,porta,otra,0,2025-03-29
+FQ1210,Quiero saber como pago mi cuenta,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Movil Control 3G.",baja,facturacion,45661,2021-11-27
+FQ1211,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Banda Ancha 20M.",equipos,cambio_plan,0,2021-05-13
+FQ1212,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,baja,falla_conexion,8855,2026-01-08
 FQ1213,como pago mi cuenta desde la app,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",fact,facturacion,23049,2021-08-22
-FQ1214,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,cancelacion,anulacion,2857,2021-03-09
-FQ1216,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Movil Control 3G.,visita_tecnica,visita,17207,2024-09-28
-FQ1217,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,facturacion,facturacion,33847,2023-06-06
+FQ1214,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,cancelacion,otra,2857,2021-03-09
+FQ1216,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Movil Control 3G.,visita_tecnica,facturacion,17207,2024-09-28
+FQ1217,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,facturacion,visita,33847,2023-06-06
 FQ1220,Como devuelvo el equipo empresa,Acercate a cualquier sucursal con el equipo y su cargador.,tecnico,falla_conexion,42122,2025-01-22
-FQ1221,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,cobros,facturacion,0,2023-04-13
-FQ1222,Cuanto cuesta el roaming movil,Depende del pais y del plan contratado.,senal,falla_conexion,45227,2021-04-19
-FQ1224,Necesito ayuda: que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Plan Andes 200.",fact.,facturacion,25605,2026-04-27
-FQ1226,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Movil Control 3G.,roaming,otra,46644,2021-12-07
-FQ1227,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,cobros,facturacion,30429,2024-08-25
-FQ1228,Quiero saber cuando vence mi boleta,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/897'>Ver mas</a>,roaming,otra,20037,2025-08-10
-FQ1230,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,baja,anulacion,33910,2023-05-31
-FQ1231,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,falla_tecnica,falla_conexion,0,2021-11-10
-FQ1232,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,facturacion,39649,2022-06-11
-FQ1234,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,visita_tecnica,visita,11053,2024-08-26
+FQ1221,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,cobros,otra,0,2023-04-13
+FQ1222,Cuanto cuesta el roaming movil,Depende del pais y del plan contratado.,senal,otra,45227,2021-04-19
+FQ1224,Necesito ayuda: que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Plan Andes 200.",fact.,falla_conexion,25605,2026-04-27
+FQ1226,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Movil Control 3G.,roaming,falla_conexion,46644,2021-12-07
+FQ1227,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,cobros,otra,30429,2024-08-25
+FQ1228,Quiero saber cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,roaming,facturacion,20037,2025-08-10
+FQ1230,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,baja,visita,33910,2023-05-31
+FQ1231,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,falla_tecnica,otra,0,2021-11-10
+FQ1232,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,falla_conexion,39649,2022-06-11
+FQ1234,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,visita_tecnica,otra,11053,2024-08-26
 FQ1235,cuanto cuesta el roaming ?,Depende del pais y del plan contratado. Aplica al plan Movil Control 3G.,equipo,otra,1247,2021-09-26
-FQ1236,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,upgrade,cambio_plan,18903,2023-09-12
-FQ1238,Como veo la TV en el celular,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/259'>Ver mas</a>,equipos,falla_conexion,22573,2022-01-29
-FQ1239,Como agendo una visita tecnica prepago,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/386'>Ver mas</a>,equipos,falla_conexion,36333,2023-01-29
+FQ1236,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,upgrade,otra,18903,2023-09-12
+FQ1238,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,equipos,otra,22573,2022-01-29
+FQ1239,Como agendo una visita tecnica prepago,Desde la app o llamando al 600 600 6000.,equipos,visita,36333,2023-01-29
 FQ1240,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web. Aplica al plan TV Basico Analogo.,tv,otra,0,2021-09-17
-FQ1241,Que pasa si pago atrasado movil,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/387'>Ver mas</a>,senal,falla_conexion,0,2022-02-09
-FQ1244,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion.,upgrade,cambio_plan,29883,2024-06-02
-FQ1245,Cuando vence mi boleta movil,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/391'>Ver mas</a>,tv,otra,0,2026-01-12
-FQ1246,Que hago si no tengo internet de fibra,"<p>Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.</p><a href='/ayuda/462'>Ver mas</a>",facturacion,facturacion,38304,2025-11-10
-FQ1247,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Plan Andes 200.,anulacion,anulacion,27070,2025-05-04
-FQ1250,Que cobertura tiene mi comuna movil,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/862'>Ver mas</a>,falla_tecnica,falla_conexion,16963,2021-12-27
+FQ1241,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,senal,facturacion,0,2022-02-09
+FQ1244,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion.,upgrade,otra,29883,2024-06-02
+FQ1245,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,tv,facturacion,0,2026-01-12
+FQ1246,Que hago si no tengo internet de fibra,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",facturacion,falla_conexion,38304,2025-11-10
+FQ1247,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Plan Andes 200.,anulacion,falla_conexion,27070,2025-05-04
+FQ1250,Que cobertura tiene mi comuna movil,Consulta el mapa de cobertura en el sitio web.,falla_tecnica,otra,16963,2021-12-27
 FQ1252,Que hago si no tengo internet de fibra,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",tecnico,falla_conexion,7079,2022-08-12
-FQ1253,Cuanto cuesta el roaming movil,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/275'>Ver mas</a>,cambio_plan,cambio_plan,2604,2023-04-07
-FQ1254,Cuando vence mi boleta,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/550'>Ver mas</a>,otros,otra,41136,2021-11-01
-FQ1256,Necesito ayuda: como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cobertura,falla_conexion,13882,2021-03-19
-FQ1257,Como me porto a Andesnet prepago,<p>Necesitas tu cedula de identidad y el numero a portar.</p><a href='/ayuda/850'>Ver mas</a>,cambio_de_plan,cambio_plan,16773,2021-06-12
+FQ1253,Cuanto cuesta el roaming movil,Depende del pais y del plan contratado.,cambio_plan,otra,2604,2023-04-07
+FQ1254,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,otros,facturacion,41136,2021-11-01
+FQ1256,Necesito ayuda: como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cobertura,cambio_plan,13882,2021-03-19
+FQ1257,Como me porto a Andesnet prepago,Necesitas tu cedula de identidad y el numero a portar.,cambio_de_plan,otra,16773,2021-06-12
 FQ1258,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cambio_plan,cambio_plan,8734,2021-03-11
 FQ1259,Que hago si no tengo internet empresa,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",senal,falla_conexion,24556,2022-01-17
-FQ1260,Como veo la TV en el celular prepago,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/601'>Ver mas</a>,fact,facturacion,24844,2023-05-07
-FQ1261,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,n/a,otra,12577,2021-03-31
-FQ1262,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Banda Ancha 20M.,senal,falla_conexion,35221,2025-09-04
-FQ1263,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion.,senal,falla_conexion,987,2022-11-09
-FQ1264,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,facturacion,facturacion,0,2021-11-28
-FQ1265,Que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipos,falla_conexion,42034,2021-02-18
-FQ1266,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,visita,15912,2021-12-12
-FQ1267,Como devuelvo el equipo de TV,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/496'>Ver mas</a>,upgrade,cambio_plan,37706,2023-05-15
-FQ1268,Como anulo mi servicio prepago,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/316'>Ver mas</a>,porta,otra,31926,2021-08-12
+FQ1260,Como veo la TV en el celular prepago,Descarga la app Andesnet TV e inicia sesion.,fact,otra,24844,2023-05-07
+FQ1261,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,n/a,facturacion,12577,2021-03-31
+FQ1262,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Banda Ancha 20M.,senal,facturacion,35221,2025-09-04
+FQ1263,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion.,senal,otra,987,2022-11-09
+FQ1264,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,facturacion,falla_conexion,0,2021-11-28
+FQ1265,Que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipos,facturacion,42034,2021-02-18
+FQ1266,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,facturacion,15912,2021-12-12
+FQ1267,Como devuelvo el equipo de TV,Acercate a cualquier sucursal con el equipo y su cargador.,upgrade,falla_conexion,37706,2023-05-15
+FQ1268,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion.,porta,otra,31926,2021-08-12
 FQ1269,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,falla_tecnica,falla_conexion,4344,2022-02-08
-FQ1270,cuando vence mi boleta ?,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,tv,otra,8970,2021-05-18
-FQ1271,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipos,falla_conexion,25634,2021-09-30
-FQ1272,que hago si no tengo internet paso a paso,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",anulacion,anulacion,42822,2023-11-04
-FQ1274,Como pago mi cuenta de TV,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",,otra,15731,2021-10-23
-FQ1275,Necesito ayuda: que cobertura tiene mi comuna,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/416'>Ver mas</a>,fact,facturacion,969,2021-08-30
-FQ1276,Que pasa si pago atrasado de fibra,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/599'>Ver mas</a> Aplica al plan Duo Clasico.,agenda_tecnico,visita,6784,2024-01-08
-FQ1279,Como agendo una visita tecnica de fibra,Desde la app o llamando al 600 600 6000.,facturacion,facturacion,0,2021-08-05
-FQ1280,Como agendo una visita tecnica de TV,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/850'>Ver mas</a>,senal,falla_conexion,13425,2025-11-21
-FQ1281,Como agendo una visita tecnica movil,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/860'>Ver mas</a>,equipos,falla_conexion,7413,2021-11-09
-FQ1285,Cuando vence mi boleta prepago,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/668'>Ver mas</a> Aplica al plan Banda Ancha 20M.,baja,anulacion,10087,2022-02-25
-FQ1288,Que cobertura tiene mi comuna movil,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/750'>Ver mas</a> Aplica al plan Movil Control 3G.,fact.,facturacion,40532,2024-12-25
-FQ1289,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Plan Andes 200.,internacional,otra,21870,2021-12-15
-FQ1290,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,cobros,facturacion,23315,2021-12-12
+FQ1270,cuando vence mi boleta ?,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,tv,facturacion,8970,2021-05-18
+FQ1271,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipos,facturacion,25634,2021-09-30
+FQ1272,que hago si no tengo internet paso a paso,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",anulacion,falla_conexion,42822,2023-11-04
+FQ1274,Como pago mi cuenta de TV,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",,facturacion,15731,2021-10-23
+FQ1275,Necesito ayuda: que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web.,fact,otra,969,2021-08-30
+FQ1276,Que pasa si pago atrasado de fibra,Se aplica interes y el servicio puede suspenderse a los 30 dias. Aplica al plan Duo Clasico.,agenda_tecnico,facturacion,6784,2024-01-08
+FQ1279,Como agendo una visita tecnica de fibra,Desde la app o llamando al 600 600 6000.,facturacion,visita,0,2021-08-05
+FQ1280,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,senal,visita,13425,2025-11-21
+FQ1281,Como agendo una visita tecnica movil,Desde la app o llamando al 600 600 6000.,equipos,visita,7413,2021-11-09
+FQ1285,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Banda Ancha 20M.,baja,facturacion,10087,2022-02-25
+FQ1288,Que cobertura tiene mi comuna movil,Consulta el mapa de cobertura en el sitio web. Aplica al plan Movil Control 3G.,fact.,otra,40532,2024-12-25
+FQ1289,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Plan Andes 200.,internacional,facturacion,21870,2021-12-15
+FQ1290,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,cobros,falla_conexion,23315,2021-12-12
 FQ1291,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,-,otra,30384,2026-03-24
-FQ1292,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,fact.,facturacion,6908,2025-07-23
-FQ1293,Quiero saber como agendo una visita tecnica,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/171'>Ver mas</a> Aplica al plan Duo Clasico.,tv,otra,0,2024-10-20
-FQ1294,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,anulacion,anulacion,26451,2023-11-29
-FQ1295,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,facturacion,facturacion,39534,2023-05-11
-FQ1296,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,facturacion,facturacion,39607,2021-11-04
-FQ1297,Cuanto cuesta el roaming movil,Depende del pais y del plan contratado.,cambio_plan,cambio_plan,30042,2021-10-16
-FQ1298,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Duo Clasico.,router,falla_conexion,13586,2022-04-24
-FQ1299,Necesito ayuda: como agendo una visita tecnica,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/601'>Ver mas</a>,tv,otra,0,2024-10-06
-FQ1301,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,portabilidad,anulacion,31534,2023-06-13
-FQ1302,Como cambio mi plan movil,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/491'>Ver mas</a>",cobros,facturacion,12153,2021-06-26
-FQ1303,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,agenda_tecnico,visita,15526,2025-10-19
-FQ1304,Como devuelvo el equipo empresa,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Duo Clasico.,otros,otra,18224,2021-02-23
-FQ1305,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,otros,otra,32168,2024-01-13
+FQ1292,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,fact.,falla_conexion,6908,2025-07-23
+FQ1293,Quiero saber como agendo una visita tecnica,Desde la app o llamando al 600 600 6000. Aplica al plan Duo Clasico.,tv,visita,0,2024-10-20
+FQ1294,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,anulacion,otra,26451,2023-11-29
+FQ1295,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,facturacion,otra,39534,2023-05-11
+FQ1296,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,facturacion,otra,39607,2021-11-04
+FQ1297,Cuanto cuesta el roaming movil,Depende del pais y del plan contratado.,cambio_plan,otra,30042,2021-10-16
+FQ1298,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Duo Clasico.,router,facturacion,13586,2022-04-24
+FQ1299,Necesito ayuda: como agendo una visita tecnica,Desde la app o llamando al 600 600 6000.,tv,visita,0,2024-10-06
+FQ1301,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,portabilidad,facturacion,31534,2023-06-13
+FQ1302,Como cambio mi plan movil,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cobros,cambio_plan,12153,2021-06-26
+FQ1303,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,agenda_tecnico,facturacion,15526,2025-10-19
+FQ1304,Como devuelvo el equipo empresa,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Duo Clasico.,otros,falla_conexion,18224,2021-02-23
+FQ1305,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,otros,falla_conexion,32168,2024-01-13
 FQ1306,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",soporte,falla_conexion,0,2022-01-21
-FQ1307,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cancelacion,anulacion,20294,2023-12-20
-FQ1308,Cuanto cuesta el roaming movil,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/900'>Ver mas</a>,falla_tecnica,falla_conexion,31806,2022-08-15
+FQ1307,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cancelacion,cambio_plan,20294,2023-12-20
+FQ1308,Cuanto cuesta el roaming movil,Depende del pais y del plan contratado.,falla_tecnica,otra,31806,2022-08-15
 FQ1309,Cuanto cuesta el roaming,Depende del pais y del plan contratado.,porta,otra,20773,2021-12-05
 FQ1311,Como devuelvo el equipo de fibra,Acercate a cualquier sucursal con el equipo y su cargador.,cobertura,falla_conexion,36377,2021-09-13
 FQ1312,como anulo mi servicio paso a paso,Debes llamar y hablar con un ejecutivo de retencion.,television,otra,39701,2022-03-10
 FQ1313,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cambio_plan,cambio_plan,24141,2023-10-01
-FQ1314,Como me porto a Andesnet prepago,Necesitas tu cedula de identidad y el numero a portar.,equipos,falla_conexion,28080,2021-09-29
-FQ1316,Como agendo una visita tecnica empresa,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/608'>Ver mas</a>,n/a,otra,994,2022-02-25
-FQ1318,como pago mi cuenta ?,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Duo Clasico.",tv,otra,31722,2025-03-27
+FQ1314,Como me porto a Andesnet prepago,Necesitas tu cedula de identidad y el numero a portar.,equipos,otra,28080,2021-09-29
+FQ1316,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,n/a,visita,994,2022-02-25
+FQ1318,como pago mi cuenta ?,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Duo Clasico.",tv,facturacion,31722,2025-03-27
 FQ1319,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",facturacion,facturacion,42957,2021-10-16
-FQ1320,Como cambio mi plan prepago,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/838'>Ver mas</a> Aplica al plan Plan Andes 200.",cambio_plan,cambio_plan,44295,2023-02-07
-FQ1321,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,anulacion,anulacion,20236,2024-03-17
+FQ1320,Como cambio mi plan prepago,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Plan Andes 200.",cambio_plan,cambio_plan,44295,2023-02-07
+FQ1321,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,anulacion,visita,20236,2024-03-17
 FQ1322,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion. Aplica al plan TV Basico Analogo.,tv,otra,10169,2025-07-28
-FQ1324,que pasa si pago atrasado paso a paso,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/289'>Ver mas</a>,facturacion,facturacion,0,2024-11-08
+FQ1324,que pasa si pago atrasado paso a paso,Se aplica interes y el servicio puede suspenderse a los 30 dias.,facturacion,facturacion,0,2024-11-08
 FQ1325,Como pago mi cuenta de TV,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",facturacion,facturacion,40030,2022-03-19
 FQ1327,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,consulta_general,otra,35286,2021-11-21
-FQ1328,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",otros,otra,9816,2023-08-07
-FQ1333,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web. Aplica al plan Plan Andes 200.,fact,facturacion,32797,2025-11-08
-FQ1334,Como devuelvo el equipo movil,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/782'>Ver mas</a>,baja,anulacion,18833,2023-11-02
-FQ1335,Cuando vence mi boleta de TV,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/213'>Ver mas</a>,visita,visita,35056,2025-04-15
-FQ1338,cuanto cuesta el roaming ?,Depende del pais y del plan contratado. Aplica al plan Plan Cobre 10M.,facturacion,facturacion,44990,2023-10-09
-FQ1339,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,visita,11356,2021-03-25
-FQ1342,Como devuelvo el equipo empresa,<p>Acercate a cualquier sucursal con el equipo y su cargador.</p><a href='/ayuda/362'>Ver mas</a>,visita,visita,21450,2021-06-07
+FQ1328,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",otros,falla_conexion,9816,2023-08-07
+FQ1333,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web. Aplica al plan Plan Andes 200.,fact,otra,32797,2025-11-08
+FQ1334,Como devuelvo el equipo movil,Acercate a cualquier sucursal con el equipo y su cargador.,baja,falla_conexion,18833,2023-11-02
+FQ1335,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,facturacion,35056,2025-04-15
+FQ1338,cuanto cuesta el roaming ?,Depende del pais y del plan contratado. Aplica al plan Plan Cobre 10M.,facturacion,otra,44990,2023-10-09
+FQ1339,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,facturacion,11356,2021-03-25
+FQ1342,Como devuelvo el equipo empresa,Acercate a cualquier sucursal con el equipo y su cargador.,visita,falla_conexion,21450,2021-06-07
 FQ1343,Como devuelvo el equipo empresa,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Duo Clasico.,soporte,falla_conexion,44172,2025-11-29
 FQ1346,Como cambio mi plan movil,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cambio_plan,cambio_plan,47667,2021-12-24
-FQ1347,que pasa si pago atrasado paso a paso,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipos,falla_conexion,3649,2021-07-27
-FQ1349,Que pasa si pago atrasado,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/706'>Ver mas</a>,equipo,otra,29300,2022-04-14
-FQ1350,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,portabilidad,anulacion,27345,2021-11-05
-FQ1351,Como veo la TV en el celular prepago,Descarga la app Andesnet TV e inicia sesion.,visita_tecnica,visita,9873,2024-11-14
-FQ1352,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,anulacion,0,2022-03-02
-FQ1353,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cambio_plan,cambio_plan,11747,2022-10-28
-FQ1354,Que pasa si pago atrasado de fibra,Se aplica interes y el servicio puede suspenderse a los 30 dias. Aplica al plan Duo Clasico.,cobertura,falla_conexion,47179,2021-12-28
-FQ1355,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Movil Control 3G.",internacional,otra,4065,2024-06-23
+FQ1347,que pasa si pago atrasado paso a paso,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipos,facturacion,3649,2021-07-27
+FQ1349,Que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,equipo,facturacion,29300,2022-04-14
+FQ1350,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,portabilidad,otra,27345,2021-11-05
+FQ1351,Como veo la TV en el celular prepago,Descarga la app Andesnet TV e inicia sesion.,visita_tecnica,otra,9873,2024-11-14
+FQ1352,Como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,otra,0,2022-03-02
+FQ1353,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cambio_plan,facturacion,11747,2022-10-28
+FQ1354,Que pasa si pago atrasado de fibra,Se aplica interes y el servicio puede suspenderse a los 30 dias. Aplica al plan Duo Clasico.,cobertura,facturacion,47179,2021-12-28
+FQ1355,Como pago mi cuenta movil,"Puedes pagar en linea desde el portal, en sucursales o por transferencia. Aplica al plan Movil Control 3G.",internacional,facturacion,4065,2024-06-23
 FQ1358,Que cobertura tiene mi comuna empresa,Consulta el mapa de cobertura en el sitio web.,n/a,otra,6545,2023-11-12
-FQ1360,Como veo la TV en el celular movil,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/335'>Ver mas</a> Aplica al plan Plan Cobre 10M.,cambio_plan,cambio_plan,24401,2021-02-17
+FQ1360,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Plan Cobre 10M.,cambio_plan,otra,24401,2021-02-17
 FQ1361,cuanto cuesta el roaming paso a paso,Depende del pais y del plan contratado.,-,otra,1562,2026-04-25
-FQ1362,Como cambio mi plan de TV,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/738'>Ver mas</a>",roaming,otra,0,2022-11-01
+FQ1362,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",roaming,cambio_plan,0,2022-11-01
 FQ1365,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cambio_de_plan,cambio_plan,37220,2024-04-11
-FQ1367,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,equipos,falla_conexion,5601,2026-01-20
-FQ1368,Como me porto a Andesnet de TV,<p>Necesitas tu cedula de identidad y el numero a portar.</p><a href='/ayuda/71'>Ver mas</a>,anulacion,anulacion,3176,2021-11-08
-FQ1369,Que cobertura tiene mi comuna de TV,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/869'>Ver mas</a>,facturacion,facturacion,34121,2025-01-06
-FQ1370,Como cambio mi plan empresa,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/565'>Ver mas</a>",equipos,falla_conexion,3100,2021-06-25
-FQ1372,Como anulo mi servicio movil,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,anulacion,27653,2021-04-20
-FQ1373,como me porto a andesnet paso a paso,Necesitas tu cedula de identidad y el numero a portar.,soporte_tecnico,falla_conexion,25175,2025-02-17
-FQ1374,Que pasa si pago atrasado de TV,Se aplica interes y el servicio puede suspenderse a los 30 dias.,consulta_general,otra,37645,2025-04-09
-FQ1375,Como agendo una visita tecnica prepago,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/879'>Ver mas</a>,consulta_general,otra,34467,2021-07-02
-FQ1376,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",otros,otra,36327,2023-09-04
-FQ1379,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita,visita,47963,2021-12-23
+FQ1367,Como agendo una visita tecnica de TV,Desde la app o llamando al 600 600 6000.,equipos,visita,5601,2026-01-20
+FQ1368,Como me porto a Andesnet de TV,Necesitas tu cedula de identidad y el numero a portar.,anulacion,otra,3176,2021-11-08
+FQ1369,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,facturacion,otra,34121,2025-01-06
+FQ1370,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",equipos,cambio_plan,3100,2021-06-25
+FQ1372,Como anulo mi servicio movil,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,otra,27653,2021-04-20
+FQ1373,como me porto a andesnet paso a paso,Necesitas tu cedula de identidad y el numero a portar.,soporte_tecnico,otra,25175,2025-02-17
+FQ1374,Que pasa si pago atrasado de TV,Se aplica interes y el servicio puede suspenderse a los 30 dias.,consulta_general,facturacion,37645,2025-04-09
+FQ1375,Como agendo una visita tecnica prepago,Desde la app o llamando al 600 600 6000.,consulta_general,visita,34467,2021-07-02
+FQ1376,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",otros,facturacion,36327,2023-09-04
+FQ1379,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita,cambio_plan,47963,2021-12-23
 FQ1381,como anulo mi servicio desde la app,Debes llamar y hablar con un ejecutivo de retencion.,television,otra,44232,2026-05-20
-FQ1382,Como me porto a Andesnet de TV,<p>Necesitas tu cedula de identidad y el numero a portar.</p><a href='/ayuda/436'>Ver mas</a>,cobertura,falla_conexion,0,2024-08-12
-FQ1383,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,portabilidad,anulacion,27885,2025-11-22
-FQ1387,Que pasa si pago atrasado empresa,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/558'>Ver mas</a>,roaming,otra,33662,2022-11-27
-FQ1388,Como cambio mi plan de TV,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/543'>Ver mas</a>",cobertura,falla_conexion,38140,2024-11-01
-FQ1391,Como cambio mi plan de fibra,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",soporte,falla_conexion,37700,2024-04-01
+FQ1382,Como me porto a Andesnet de TV,Necesitas tu cedula de identidad y el numero a portar.,cobertura,otra,0,2024-08-12
+FQ1383,Cuando vence mi boleta prepago,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,portabilidad,facturacion,27885,2025-11-22
+FQ1387,Que pasa si pago atrasado empresa,Se aplica interes y el servicio puede suspenderse a los 30 dias.,roaming,facturacion,33662,2022-11-27
+FQ1388,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",cobertura,cambio_plan,38140,2024-11-01
+FQ1391,Como cambio mi plan de fibra,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",soporte,cambio_plan,37700,2024-04-01
 FQ1393,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion.,otros,otra,0,2021-03-21
-FQ1394,Que cobertura tiene mi comuna,<p>Consulta el mapa de cobertura en el sitio web.</p><a href='/ayuda/384'>Ver mas</a>,facturacion,facturacion,18162,2021-11-12
-FQ1397,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,equipos,falla_conexion,31608,2022-08-29
-FQ1398,Como agendo una visita tecnica de fibra,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/833'>Ver mas</a>,fact,facturacion,40673,2024-02-27
-FQ1399,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,cambio_plan,cambio_plan,1334,2021-11-06
-FQ1400,Que pasa si pago atrasado prepago,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/771'>Ver mas</a> Aplica al plan Plan Andes 200.,cancelacion,anulacion,0,2021-11-05
-FQ1401,Quiero saber como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,cambio_plan,cambio_plan,10712,2025-11-21
-FQ1402,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,porta,otra,22984,2023-08-15
-FQ1403,Necesito ayuda: que pasa si pago atrasado,<p>Se aplica interes y el servicio puede suspenderse a los 30 dias.</p><a href='/ayuda/639'>Ver mas</a>,tecnico,falla_conexion,33490,2024-02-24
-FQ1404,que pasa si pago atrasado desde la app,Se aplica interes y el servicio puede suspenderse a los 30 dias.,baja,anulacion,27701,2021-11-02
-FQ1406,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Movil Control 3G.,portabilidad,anulacion,3452,2026-01-02
+FQ1394,Que cobertura tiene mi comuna,Consulta el mapa de cobertura en el sitio web.,facturacion,otra,18162,2021-11-12
+FQ1397,Cuando vence mi boleta empresa,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,equipos,facturacion,31608,2022-08-29
+FQ1398,Como agendo una visita tecnica de fibra,Desde la app o llamando al 600 600 6000.,fact,visita,40673,2024-02-27
+FQ1399,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,cambio_plan,otra,1334,2021-11-06
+FQ1400,Que pasa si pago atrasado prepago,Se aplica interes y el servicio puede suspenderse a los 30 dias. Aplica al plan Plan Andes 200.,cancelacion,facturacion,0,2021-11-05
+FQ1401,Quiero saber como anulo mi servicio,Debes llamar y hablar con un ejecutivo de retencion.,cambio_plan,otra,10712,2025-11-21
+FQ1402,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,porta,facturacion,22984,2023-08-15
+FQ1403,Necesito ayuda: que pasa si pago atrasado,Se aplica interes y el servicio puede suspenderse a los 30 dias.,tecnico,facturacion,33490,2024-02-24
+FQ1404,que pasa si pago atrasado desde la app,Se aplica interes y el servicio puede suspenderse a los 30 dias.,baja,facturacion,27701,2021-11-02
+FQ1406,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Movil Control 3G.,portabilidad,otra,3452,2026-01-02
 FQ1407,Como veo la TV en el celular prepago,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Duo Clasico.,roaming,otra,37096,2021-04-30
 FQ1408,Como devuelvo el equipo prepago,Acercate a cualquier sucursal con el equipo y su cargador.,cobertura,falla_conexion,37367,2021-11-04
-FQ1410,Como me porto a Andesnet prepago,<p>Necesitas tu cedula de identidad y el numero a portar.</p><a href='/ayuda/27'>Ver mas</a>,otros,otra,12756,2024-04-10
-FQ1411,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Plan Andes 200.",otros,otra,23154,2021-12-11
-FQ1412,Quiero saber cuanto cuesta el roaming,Depende del pais y del plan contratado.,upgrade,cambio_plan,2013,2023-12-10
+FQ1410,Como me porto a Andesnet prepago,Necesitas tu cedula de identidad y el numero a portar.,otros,otra,12756,2024-04-10
+FQ1411,Como cambio mi plan de TV,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Plan Andes 200.",otros,cambio_plan,23154,2021-12-11
+FQ1412,Quiero saber cuanto cuesta el roaming,Depende del pais y del plan contratado.,upgrade,otra,2013,2023-12-10
 FQ1413,Como veo la TV en el celular prepago,Descarga la app Andesnet TV e inicia sesion.,,otra,4982,2025-01-08
-FQ1414,Que cobertura tiene mi comuna de fibra,Consulta el mapa de cobertura en el sitio web. Aplica al plan Banda Ancha 20M.,upgrade,cambio_plan,7714,2022-08-08
-FQ1416,Como veo la TV en el celular movil,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/53'>Ver mas</a>,portabilidad,anulacion,33837,2022-05-28
-FQ1418,Que hago si no tengo internet de fibra,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",equipo,otra,36236,2021-01-03
-FQ1419,Como devuelvo el equipo,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Plan Andes 200.,upgrade,cambio_plan,5561,2022-10-20
-FQ1421,Como anulo mi servicio empresa,Debes llamar y hablar con un ejecutivo de retencion.,visita,visita,13908,2026-05-01
+FQ1414,Que cobertura tiene mi comuna de fibra,Consulta el mapa de cobertura en el sitio web. Aplica al plan Banda Ancha 20M.,upgrade,otra,7714,2022-08-08
+FQ1416,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,portabilidad,otra,33837,2022-05-28
+FQ1418,Que hago si no tengo internet de fibra,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",equipo,falla_conexion,36236,2021-01-03
+FQ1419,Como devuelvo el equipo,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Plan Andes 200.,upgrade,falla_conexion,5561,2022-10-20
+FQ1421,Como anulo mi servicio empresa,Debes llamar y hablar con un ejecutivo de retencion.,visita,otra,13908,2026-05-01
 FQ1422,Como me porto a Andesnet,Necesitas tu cedula de identidad y el numero a portar.,consulta_general,otra,39991,2025-03-02
-FQ1426,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,cobertura,falla_conexion,34572,2023-05-12
-FQ1428,Cuanto cuesta el roaming de TV,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/741'>Ver mas</a>,portabilidad,anulacion,12557,2022-08-07
+FQ1426,Que pasa si pago atrasado movil,Se aplica interes y el servicio puede suspenderse a los 30 dias.,cobertura,facturacion,34572,2023-05-12
+FQ1428,Cuanto cuesta el roaming de TV,Depende del pais y del plan contratado.,portabilidad,otra,12557,2022-08-07
 FQ1429,Cuanto cuesta el roaming empresa,Depende del pais y del plan contratado.,tv,otra,15837,2025-10-01
-FQ1430,como veo la tv en el celular ?,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Plan Andes 200.,falla_tecnica,falla_conexion,0,2022-12-06
-FQ1431,Necesito ayuda: que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",portabilidad,anulacion,22368,2025-08-04
-FQ1432,Que hago si no tengo internet empresa,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Banda Ancha 20M.",cambio_plan,cambio_plan,23771,2021-11-21
-FQ1433,como agendo una visita tecnica ?,Desde la app o llamando al 600 600 6000.,-,otra,24530,2026-02-02
-FQ1434,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,anulacion,anulacion,0,2023-04-06
-FQ1435,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cambio_plan,cambio_plan,12679,2021-11-29
-FQ1436,Cuando vence mi boleta de fibra,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,visita,29675,2025-09-08
-FQ1437,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,equipos,falla_conexion,1508,2022-01-12
-FQ1439,Como cambio mi plan,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/640'>Ver mas</a> Aplica al plan Duo Clasico.",facturacion,facturacion,0,2025-11-09
-FQ1442,Como anulo mi servicio empresa,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/211'>Ver mas</a>,porta,otra,18166,2021-10-16
-FQ1443,Cuando vence mi boleta de TV,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/331'>Ver mas</a>,upgrade,cambio_plan,2967,2022-03-05
-FQ1444,Como me porto a Andesnet de fibra,<p>Necesitas tu cedula de identidad y el numero a portar.</p><a href='/ayuda/318'>Ver mas</a>,equipos,falla_conexion,38335,2023-12-07
-FQ1445,como agendo una visita tecnica desde la app,Desde la app o llamando al 600 600 6000.,facturacion,facturacion,36339,2021-02-25
-FQ1448,como cambio mi plan paso a paso,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita_tecnica,visita,16863,2021-07-31
-FQ1449,como pago mi cuenta desde la app,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",senal,falla_conexion,45745,2023-05-28
-FQ1450,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,anulacion,10190,2022-07-10
-FQ1451,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Banda Ancha 20M.,anulacion,anulacion,9631,2021-10-09
-FQ1452,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,cambio_plan,cambio_plan,19707,2021-11-05
-FQ1453,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,anulacion,anulacion,25412,2021-06-14
-FQ1454,Cuanto cuesta el roaming de fibra,Depende del pais y del plan contratado.,equipos,falla_conexion,20990,2023-07-26
-FQ1455,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,portabilidad,anulacion,36611,2023-05-21
-FQ1456,Como pago mi cuenta empresa,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_plan,cambio_plan,16818,2026-01-10
-FQ1457,Como cambio mi plan empresa,"<p>Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.</p><a href='/ayuda/196'>Ver mas</a>",equipos,falla_conexion,14284,2024-08-29
-FQ1458,Como pago mi cuenta de TV,"<p>Puedes pagar en linea desde el portal, en sucursales o por transferencia.</p><a href='/ayuda/715'>Ver mas</a>",otros,otra,6245,2025-06-04
+FQ1430,como veo la tv en el celular ?,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Plan Andes 200.,falla_tecnica,otra,0,2022-12-06
+FQ1431,Necesito ayuda: que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",portabilidad,falla_conexion,22368,2025-08-04
+FQ1432,Que hago si no tengo internet empresa,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Banda Ancha 20M.",cambio_plan,falla_conexion,23771,2021-11-21
+FQ1433,como agendo una visita tecnica ?,Desde la app o llamando al 600 600 6000.,-,visita,24530,2026-02-02
+FQ1434,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,anulacion,otra,0,2023-04-06
+FQ1435,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,cambio_plan,facturacion,12679,2021-11-29
+FQ1436,Cuando vence mi boleta de fibra,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,visita,facturacion,29675,2025-09-08
+FQ1437,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,equipos,otra,1508,2022-01-12
+FQ1439,Como cambio mi plan,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar. Aplica al plan Duo Clasico.",facturacion,cambio_plan,0,2025-11-09
+FQ1442,Como anulo mi servicio empresa,Debes llamar y hablar con un ejecutivo de retencion.,porta,otra,18166,2021-10-16
+FQ1443,Cuando vence mi boleta de TV,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,upgrade,facturacion,2967,2022-03-05
+FQ1444,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,equipos,otra,38335,2023-12-07
+FQ1445,como agendo una visita tecnica desde la app,Desde la app o llamando al 600 600 6000.,facturacion,visita,36339,2021-02-25
+FQ1448,como cambio mi plan paso a paso,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",visita_tecnica,cambio_plan,16863,2021-07-31
+FQ1449,como pago mi cuenta desde la app,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",senal,facturacion,45745,2023-05-28
+FQ1450,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion.,portabilidad,otra,10190,2022-07-10
+FQ1451,Cuando vence mi boleta,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan Banda Ancha 20M.,anulacion,facturacion,9631,2021-10-09
+FQ1452,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion.,cambio_plan,otra,19707,2021-11-05
+FQ1453,Que cobertura tiene mi comuna prepago,Consulta el mapa de cobertura en el sitio web.,anulacion,otra,25412,2021-06-14
+FQ1454,Cuanto cuesta el roaming de fibra,Depende del pais y del plan contratado.,equipos,otra,20990,2023-07-26
+FQ1455,Como me porto a Andesnet empresa,Necesitas tu cedula de identidad y el numero a portar.,portabilidad,otra,36611,2023-05-21
+FQ1456,Como pago mi cuenta empresa,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",cambio_plan,facturacion,16818,2026-01-10
+FQ1457,Como cambio mi plan empresa,"Ingresa al portal, seccion Mi Plan, y selecciona Cambiar.",equipos,cambio_plan,14284,2024-08-29
+FQ1458,Como pago mi cuenta de TV,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",otros,facturacion,6245,2025-06-04
 FQ1460,Que hago si no tengo internet movil,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",falla_tecnica,falla_conexion,42995,2021-12-05
-FQ1461,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,cobros,facturacion,45949,2021-10-27
-FQ1462,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,visita,visita,0,2021-01-09
-FQ1463,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,portabilidad,anulacion,0,2022-09-22
+FQ1461,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,cobros,otra,45949,2021-10-27
+FQ1462,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,visita,otra,0,2021-01-09
+FQ1463,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,portabilidad,otra,0,2022-09-22
 FQ1464,Como anulo mi servicio prepago,Debes llamar y hablar con un ejecutivo de retencion.,tv,otra,13605,2024-05-02
 FQ1465,Cuando vence mi boleta de fibra,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta. Aplica al plan TV Basico Analogo.,facturacion,facturacion,36474,2023-12-21
-FQ1466,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,senal,falla_conexion,31955,2021-11-22
-FQ1467,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,cambio_de_plan,cambio_plan,34026,2021-06-08
-FQ1468,Cuanto cuesta el roaming prepago,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/615'>Ver mas</a>,router,falla_conexion,2983,2021-07-27
-FQ1469,Como veo la TV en el celular de TV,<p>Descarga la app Andesnet TV e inicia sesion.</p><a href='/ayuda/627'>Ver mas</a>,soporte_tecnico,falla_conexion,37457,2023-08-20
-FQ1470,Que hago si no tengo internet de TV,"<p>Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.</p><a href='/ayuda/556'>Ver mas</a>",equipos,falla_conexion,23086,2022-02-25
-FQ1471,Que pasa si pago atrasado prepago,Se aplica interes y el servicio puede suspenderse a los 30 dias.,cobertura,falla_conexion,22674,2021-07-03
-FQ1472,Cuanto cuesta el roaming de fibra,<p>Depende del pais y del plan contratado.</p><a href='/ayuda/630'>Ver mas</a>,senal,falla_conexion,34583,2024-10-05
-FQ1473,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion. Aplica al plan TV Basico Analogo.,soporte_tecnico,falla_conexion,14294,2022-08-04
-FQ1474,Que pasa si pago atrasado empresa,Se aplica interes y el servicio puede suspenderse a los 30 dias.,cambio_plan,cambio_plan,0,2021-09-25
-FQ1475,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",fact,facturacion,10672,2023-08-26
+FQ1466,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,senal,otra,31955,2021-11-22
+FQ1467,Como veo la TV en el celular,Descarga la app Andesnet TV e inicia sesion.,cambio_de_plan,otra,34026,2021-06-08
+FQ1468,Cuanto cuesta el roaming prepago,Depende del pais y del plan contratado.,router,otra,2983,2021-07-27
+FQ1469,Como veo la TV en el celular de TV,Descarga la app Andesnet TV e inicia sesion.,soporte_tecnico,otra,37457,2023-08-20
+FQ1470,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",equipos,falla_conexion,23086,2022-02-25
+FQ1471,Que pasa si pago atrasado prepago,Se aplica interes y el servicio puede suspenderse a los 30 dias.,cobertura,facturacion,22674,2021-07-03
+FQ1472,Cuanto cuesta el roaming de fibra,Depende del pais y del plan contratado.,senal,otra,34583,2024-10-05
+FQ1473,Como veo la TV en el celular de fibra,Descarga la app Andesnet TV e inicia sesion. Aplica al plan TV Basico Analogo.,soporte_tecnico,otra,14294,2022-08-04
+FQ1474,Que pasa si pago atrasado empresa,Se aplica interes y el servicio puede suspenderse a los 30 dias.,cambio_plan,facturacion,0,2021-09-25
+FQ1475,Que hago si no tengo internet prepago,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",fact,falla_conexion,10672,2023-08-26
 FQ1476,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan TV Basico Analogo.",falla_tecnica,falla_conexion,28125,2021-04-07
-FQ1478,Cuando vence mi boleta movil,<p>La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.</p><a href='/ayuda/700'>Ver mas</a>,fact,facturacion,24316,2023-08-22
+FQ1478,Cuando vence mi boleta movil,La fecha de vencimiento aparece en la esquina superior derecha de tu boleta.,fact,facturacion,24316,2023-08-22
 FQ1479,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",tecnico,falla_conexion,23357,2021-04-27
 FQ1480,Como me porto a Andesnet de fibra,Necesitas tu cedula de identidad y el numero a portar.,roaming,otra,40691,2022-05-07
-FQ1481,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Movil Control 3G.",fact,facturacion,0,2024-10-29
+FQ1481,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Movil Control 3G.",fact,falla_conexion,0,2024-10-29
 FQ1482,Que hago si no tengo internet,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona. Aplica al plan Movil Control 3G.",equipos,falla_conexion,34982,2022-09-30
-FQ1483,Como me porto a Andesnet prepago,Necesitas tu cedula de identidad y el numero a portar.,cobros,facturacion,0,2024-08-20
-FQ1485,Como me porto a Andesnet movil,<p>Necesitas tu cedula de identidad y el numero a portar.</p><a href='/ayuda/776'>Ver mas</a>,tv,otra,0,2021-11-17
+FQ1483,Como me porto a Andesnet prepago,Necesitas tu cedula de identidad y el numero a portar.,cobros,otra,0,2024-08-20
+FQ1485,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,tv,otra,0,2021-11-17
 FQ1487,Como devuelvo el equipo de TV,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Movil Control 3G.,cobertura,falla_conexion,34309,2021-07-07
-FQ1488,como pago mi cuenta desde la app,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",baja,anulacion,0,2021-05-27
-FQ1489,Como devuelvo el equipo de TV,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Plan Cobre 10M.,cancelacion,anulacion,29338,2023-09-14
-FQ1490,Como agendo una visita tecnica empresa,<p>Desde la app o llamando al 600 600 6000.</p><a href='/ayuda/842'>Ver mas</a>,,otra,31944,2021-09-26
-FQ1491,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,baja,anulacion,44586,2022-06-10
-FQ1492,cuanto cuesta el roaming paso a paso,Depende del pais y del plan contratado.,baja,anulacion,15941,2024-04-30
-FQ1493,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",portabilidad,anulacion,43772,2024-01-16
-FQ1494,Que pasa si pago atrasado prepago,Se aplica interes y el servicio puede suspenderse a los 30 dias.,falla_tecnica,falla_conexion,16782,2021-03-11
-FQ1495,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,portabilidad,anulacion,0,2026-03-17
+FQ1488,como pago mi cuenta desde la app,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",baja,facturacion,0,2021-05-27
+FQ1489,Como devuelvo el equipo de TV,Acercate a cualquier sucursal con el equipo y su cargador. Aplica al plan Plan Cobre 10M.,cancelacion,falla_conexion,29338,2023-09-14
+FQ1490,Como agendo una visita tecnica empresa,Desde la app o llamando al 600 600 6000.,,visita,31944,2021-09-26
+FQ1491,Como me porto a Andesnet movil,Necesitas tu cedula de identidad y el numero a portar.,baja,otra,44586,2022-06-10
+FQ1492,cuanto cuesta el roaming paso a paso,Depende del pais y del plan contratado.,baja,otra,15941,2024-04-30
+FQ1493,Como pago mi cuenta de fibra,"Puedes pagar en linea desde el portal, en sucursales o por transferencia.",portabilidad,facturacion,43772,2024-01-16
+FQ1494,Que pasa si pago atrasado prepago,Se aplica interes y el servicio puede suspenderse a los 30 dias.,falla_tecnica,facturacion,16782,2021-03-11
+FQ1495,Que cobertura tiene mi comuna de TV,Consulta el mapa de cobertura en el sitio web.,portabilidad,otra,0,2026-03-17
 FQ1496,Que hago si no tengo internet de TV,"Reinicia el router, revisa las luces y verifica que no haya corte en tu zona.",equipos,falla_conexion,37423,2021-05-23
-FQ1497,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Banda Ancha 20M.,senal,falla_conexion,0,2023-10-31
-FQ1498,Como anulo mi servicio de TV,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/689'>Ver mas</a>,equipo,otra,34543,2022-07-24
-FQ1499,Como anulo mi servicio de fibra,<p>Debes llamar y hablar con un ejecutivo de retencion.</p><a href='/ayuda/476'>Ver mas</a> Aplica al plan Duo Clasico.,roaming,otra,1882,2025-01-08
+FQ1497,Como veo la TV en el celular movil,Descarga la app Andesnet TV e inicia sesion. Aplica al plan Banda Ancha 20M.,senal,otra,0,2023-10-31
+FQ1498,Como anulo mi servicio de TV,Debes llamar y hablar con un ejecutivo de retencion.,equipo,otra,34543,2022-07-24
+FQ1499,Como anulo mi servicio de fibra,Debes llamar y hablar con un ejecutivo de retencion. Aplica al plan Duo Clasico.,roaming,otra,1882,2025-01-08
