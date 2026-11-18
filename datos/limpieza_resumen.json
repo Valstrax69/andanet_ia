@@ -21,7 +21,7 @@
   "conversaciones": {
     "duplicadas_eliminadas": 241,
     "con_dato_personal": 3429,
-    "sin_etiqueta_descartadas": 3114,
-    "usadas_entrenamiento": 4886
+    "usadas_entrenamiento": 0,
+    "motivo_excluidas": "etiqueta puesta por el bot de reglas anterior; de 270 textos compartidos con los tickets, 166 llevan etiqueta distinta segun la fuente"
   }
 }
