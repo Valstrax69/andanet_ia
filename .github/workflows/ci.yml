@@ -6,7 +6,7 @@ on:
     branches: [dev, main]
   push:
     branches: [main]
-    tags: ["ep2"]
+    tags: ["ep2", "ep3"]
  
 env:
   IMAGE: ghcr.io/${{ github.repository_owner }}/ia
