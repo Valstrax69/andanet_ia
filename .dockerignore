@@ -1,9 +1,11 @@
-datos/raw/
-datos/tratados/
-datos/*.json
+# Los CSV del XGBoost solo los usa SageMaker desde CloudShell: no van en la imagen
+modelo/xgboost/
+modelo/METRICAS.md
+datos/
 tests/
-*.md
-.github/
+sagemaker/
 __pycache__/
 *.pyc
-requirements-dev.txt
+.pytest_cache/
+.venv/
+.git/
