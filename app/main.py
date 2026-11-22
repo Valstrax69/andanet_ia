@@ -1,30 +1,38 @@
 """
 Microservicio de IA - clasificador de intencion.
 
-Carga el modelo entrenado por datos/preparar.py y expone:
-  GET  /health   -> estado y version del modelo
+Expone:
+  GET  /health   -> estado del motor y version del modelo
   POST /predict  -> {"texto": "..."} -> intencion, confianza, modelo_version
 
-Antes de clasificar enmascara el texto (RNF5): el modelo nunca ve datos personales.
-"""
-import json
-import os
-from pathlib import Path
+El texto se enmascara antes de cualquier cosa (RNF5): el modelo nunca ve datos
+personales, y lo que se devuelve al dominio para guardar tampoco los tiene.
 
-import joblib
+Son dos pasos separados:
+  1. app.caracteristicas vectoriza el texto con el TF-IDF (826 columnas)
+  2. app.motores entrega esos numeros al clasificador
+
+El paso 1 no cambia nunca. El paso 2 es el que decide MOTOR: en EP2 el modelo
+esta dentro de la imagen, en EP3 vive en un endpoint de SageMaker. El servicio
+responde igual en los dos casos.
+"""
+import os
+
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
 
-from app.anonimizar import enmascarar
+from app.caracteristicas import cargar_vectorizador, limpiar, vectorizar
+from app.motores import cargar_metadatos, crear_motor
 
-MODELO_PATH = Path(os.getenv("MODELO_PATH", "/app/modelo/modelo.pkl"))
-META_PATH = Path(os.getenv("META_PATH", "/app/modelo/modelo_meta.json"))
+META = cargar_metadatos()
+MODELO_VERSION = META.get("modelo_version", "desconocida")
+CLASES = META.get("clases", [])
 
-modelo = joblib.load(MODELO_PATH)
-meta = json.loads(META_PATH.read_text(encoding="utf-8"))
-MODELO_VERSION = meta.get("modelo_version", "desconocida")
+cargar_vectorizador()          # al arrancar, no en la primera peticion
+motor = crear_motor(META)
 
-app = FastAPI(title="Andesnet IA - clasificador de intencion")
+app = FastAPI(title="Andesnet IA - clasificador de intencion",
+              version=MODELO_VERSION)
 
 
 class Peticion(BaseModel):
@@ -33,21 +41,31 @@ class Peticion(BaseModel):
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "modelo_version": MODELO_VERSION}
+    return {
+        "status": "ok",
+        "motor": motor.nombre,
+        "motor_estado": motor.estado(),
+        "modelo_version": motor.version,
+        "modelo_datos_version": MODELO_VERSION,
+        "clases": len(CLASES),
+        "endpoint": os.getenv("ENDPOINT", "") if motor.nombre == "sagemaker" else "",
+    }
 
 
 @app.post("/predict")
 def predict(p: Peticion):
-    texto_limpio = enmascarar(p.texto)
+    texto_limpio = limpiar(p.texto)
     if not texto_limpio:
         return {"intencion": "otra", "confianza": 0.0,
-                "modelo_version": MODELO_VERSION, "entrada_enmascarada": ""}
-    intencion = modelo.predict([texto_limpio])[0]
-    proba = modelo.predict_proba([texto_limpio])[0]
-    confianza = float(max(proba))
+                "modelo_version": motor.version, "entrada_enmascarada": "",
+                "motor": motor.nombre}
+
+    proba = motor.probabilidades([vectorizar(p.texto)])[0]
+    i = max(range(len(proba)), key=proba.__getitem__)
     return {
-        "intencion": intencion,
-        "confianza": round(confianza, 4),
-        "modelo_version": MODELO_VERSION,
+        "intencion": motor.clases[i],
+        "confianza": round(float(proba[i]), 4),
+        "modelo_version": motor.version,
         "entrada_enmascarada": texto_limpio,
+        "motor": motor.nombre,
     }
