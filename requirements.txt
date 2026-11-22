@@ -4,3 +4,4 @@ scikit-learn==1.9.1
 joblib==1.4.2
 numpy==2.1.3
 scipy==1.14.1
+boto3==1.44.5
